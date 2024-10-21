@@ -5,8 +5,13 @@ DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
+
+#feature_music
 DOMAIN-SUFFIX,mefun.org
+#cf
 DOMAIN-SUFFIX,cfapi.net
+#proxy-provider
+DOMAIN-SUFFIX,flyingbird.pro
 
 # Aliyun
 DOMAIN-SUFFIX,home-intl.console.aliyun.com
