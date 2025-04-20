@@ -8,6 +8,8 @@ DOMAIN-SUFFIX,mefun.vip
 DOMAIN-SUFFIX,follow.is
 DOMAIN-SUFFIX,makifx.com
 
+DOMAIN,hka-emby3.aliz.work
+DOMAIN,onatoshi.114514.quest
 DOMAIN,mtalk.google.com
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -26,3 +28,7 @@ DOMAIN-SUFFIX,push.apple.com
 
 DOMAIN-KEYWORD,baidu
 DOMAIN-SUFFIX,erebor.douban.com
+
+ 
+
+DOMAIN,ct.cdn.bgp.yt,DIRECT
