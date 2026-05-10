@@ -1,4 +1,5 @@
-DOMAIN-SUFFIX,emby.wtf
-DOMAIN-SUFFIX,term.wtf
-DOMAIN-SUFFIX,mefun.org
-DOMAIN-SUFFIX,zox.show
+payload:
+  - DOMAIN,media.micu.hk
+  - DOMAIN-SUFFIX,term.wtf
+  - DOMAIN-SUFFIX,mefun.org
+  - DOMAIN-SUFFIX,zox.show
