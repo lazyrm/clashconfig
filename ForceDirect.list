@@ -29,4 +29,4 @@ payload:
   - 
   - DOMAIN-KEYWORD,baidu
   - DOMAIN-SUFFIX,erebor.douban.com
-  - DOMAIN,ct.cdn.bgp.yt,DIRECT
+  - DOMAIN,ct.cdn.bgp.yt
