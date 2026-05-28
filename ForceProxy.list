@@ -1,4 +1,5 @@
 payload:
+  - IP-CIDR,8.216.48.81/32
   - DOMAIN,media.micu.hk
   - DOMAIN,media1.micu.hk
   - DOMAIN,media2.micu.hk
